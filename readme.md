@@ -4,3 +4,18 @@ styles are complete
 form does not work (front end only)
 Customized favicon with external resouce, not part of the project.
 https://duckarroyo.github.io/Run-buddy/
+
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Duck Arroyo
