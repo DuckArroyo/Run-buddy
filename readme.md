@@ -19,3 +19,4 @@ https://duckarroyo.github.io/Run-buddy/
 
 ## Contribution
 Made with ❤️ by Duck Arroyo
+Error inducing text
