@@ -5,10 +5,10 @@ form does not work (front end only)
 Customized favicon with external resouce, not part of the project.
 https://duckarroyo.github.io/Run-buddy/
 
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
@@ -19,3 +19,5 @@ https://duckarroyo.github.io/Run-buddy/
 
 ## Contribution
 Made with ❤️ by Duck Arroyo
+
+### ©️2019 Run Buddy, Inc
