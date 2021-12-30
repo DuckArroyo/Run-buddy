@@ -17,7 +17,20 @@ A website that offers fitness training services.
 ## Website
 https://duckarroyo.github.io/Run-buddy/
 
-## Contribution
-Made with ❤️ by Duck Arroyo
+# Contributions by:
 
-### ©️2019 Run Buddy, Inc
+DeveloperDuckArroyo
+
+[Email](mailto:DeveloperDuckArroyo@gmail.com)
+
+[Portfolio](https://github.com/DuckArroyo/portfolio)
+
+[React Portfolio](http://DuckArroyo.github.io/reactPortfolio)
+
+[GitHub](https://github.com/DuckArroyo)
+
+[Twitter @DevDuckArroyo](https://twitter.com/DevDuckArroyo)
+
+[LinkedIn](https://www.linkedin.com/in/duckarroyo)
+
+[CodePen](https://codepen.io/DeveloperDuckArroyo)
